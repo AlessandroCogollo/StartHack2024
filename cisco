@@ -1,0 +1,41 @@
+
+- location-based analytics (wireless) 
+- spaces arch: data from different sources, variegated  (webex, switches, )
+- position of a user in a room 
+- sensors: wifi, wired (e.g. temp) with a EP getway (BLE and then into cloud space solution) 
+- use cases: behav anal (heatmaps with people navigation, real-time monitoring of users) 
+- Firehose: rt data streaming of IoT telemetry, users 
+ MARKET PLACE: use it to see supported stuff and use cases 
+ C intelligent workspace 
+ phone app -> map for navigation, find a room 
+ example: use gpt to write and run some python code 
+ extra third party data ?
+
+ FILTERING: important not to overload ! 
+ different streams, different data, filtering needed 
+ location hi : new access points etc. 
+ CHECK THE DOCS 
+ WEBEX SPACE FOR PARTICIPANTS: api key for firehose API over this channel! 
+ premi di merda 
+
+questions: 
+- API limitations 
+18 different api keys, pay attention to event splitting 
+- precision: location calculated on the cloud, depends on access points (5-10 meters) 
+- historical data: on you, integrated with your db 
+- sample data: preview of code done! check gh 
+- information about the person: ip, mac, (e.g.) hash that to make it invisible 
+
+
+USE CASE: new ideas, what business data can be combined to create new ideas! e.g. combine data from different sources
+access point location: you have pos, it telemetry, probably yes 
+
+PRIVACY: mac rand, hash information (!!!!) 
+you have to allow us to see you
+
+
+cosa esiste già????
+
+
+does poli do this?????? 
+
