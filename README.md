@@ -1,4 +1,4 @@
-![alt text](https://github.com/AlessandroCogollo/StartHack2024/blob/main/assets/_52a7268f-69a7-47e0-a6d1-1e0f9f8382e4.png)
+<img src="https://github.com/AlessandroCogollo/StartHack2024/blob/main/assets/_52a7268f-69a7-47e0-a6d1-1e0f9f8382e4.png" width=50% height=50%>
 
 # StartHack2024
 This repository contains three Python scripts that showcase the use of Syngenta APIs for the business use case proposed by Group 9 at Start Hack 2024. 
