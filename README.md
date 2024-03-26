@@ -1,3 +1,5 @@
+![alt text](https://github.com/AlessandroCogollo/StartHack2024/blob/main/assets/_52a7268f-69a7-47e0-a6d1-1e0f9f8382e4.png)
+
 # StartHack2024
 This repository contains three Python scripts that showcase the use of Syngenta APIs for the business use case proposed by Group 9 at Start Hack 2024. 
 We are Computer Science and Engineering students from Politecnico di Milano and our names are Alessandro Mileto, Alessandro Cogollo, Tommaso Crippa, Pietro Morcavallo. 
